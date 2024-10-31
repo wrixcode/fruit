@@ -4,7 +4,7 @@ import image1 from '../../assets/fruits-splash.png'
 const Banner = () => {
   return (
     <section className='bg-secondary/10'>
-        <div className='container  space-y-6 md:space-y-0 px-20  py-10 grid grid-cols-1 md:grid-cols-2'>
+        <div className='container  space-y-6 md:space-y-0 md:px-20  py-10 grid grid-cols-1 md:grid-cols-2'>
 {/* image section */}
 
 

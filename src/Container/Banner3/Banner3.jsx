@@ -16,7 +16,7 @@ backgroundRepeat:'no-repeat',
         <div 
        
     style={bgstyle}
-        className='container   space-y-6 md:space-y-0 px-20  py-10 grid
+        className='container   space-y-6 md:space-y-0 md:px-20  py-10 grid
          grid-cols-1 md:grid-cols-2 gap-8'>
            
 {/* image section */}
@@ -34,7 +34,7 @@ backgroundRepeat:'no-repeat',
 <div className='text-center'>
 <h1 className='text-6xl  font-bold pb-9 '> GET FRESH FRUIT TODAY</h1>
 
-<p className='text-center '>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, aut culpa repellendus 
+<p className=' md:text-center '>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, aut culpa repellendus 
     qatque enim magni autem illum veritatis commodi quaerat offic
 
     iis! Nemo animi sunt aut quasi quis laudantium deserunt. Voluptas.
